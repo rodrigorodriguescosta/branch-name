@@ -11,3 +11,4 @@ jobs:
     - run: |
          echo $BRANCH_NAME
          echo $BRANCH_NAME_LOWER_CASE
+         echo $BRANCH_NAME_LOWER_CASE
